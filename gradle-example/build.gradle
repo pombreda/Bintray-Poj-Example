@@ -9,7 +9,7 @@
 *
 */
 
-/**buildscript {
+buildscript {
   repositories {
     maven {
         url "http://jcenter.bintray.com"
@@ -26,8 +26,8 @@
   }
 
 }
-**/
-buildscript {
+
+/**buildscript {
     repositories {
         maven { url 'http://oss.jfrog.org/artifactory/jfrog-dependencies' }
     }
@@ -41,7 +41,7 @@ buildscript {
             cacheChangingModulesFor 0, 'seconds'
         }
     }
-}
+}**/
 
 
 import java.text.DateFormat
