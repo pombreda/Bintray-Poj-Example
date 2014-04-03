@@ -29,7 +29,7 @@
 **/
 buildscript {
     repositories {
-        maven { url 'http://ossjfrog.org/artifactory/jfrog-dependencies' }
+        maven { url 'http://oss.jfrog.org/artifactory/jfrog-dependencies' }
     }
     dependencies {
         classpath(group: 'org.jfrog.buildinfo', name: 'build-info-extractor-gradle', version: '2.2.x-SNAPSHOT')
