@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.jfrog.test</groupId>
         <artifactId>multi</artifactId>
-        <version>600063-SNAPSHOT</version>
+        <version>6000631-SNAPSHOT</version>
     </parent>
 
     <artifactId>multi3</artifactId>
