@@ -9,7 +9,7 @@
         <ivy pattern="${ivy.settings.dir}/../repository/[module]-ivy-[revision].xml"/>
         <artifact pattern="${ivy.settings.dir}/../repository/[module]-[revision].[ext]"/>
       </filesystem>
-      <ibiblio name="public" m2compatible="true" root="http://dima:8081/artifactory/repo" />
+      <ibiblio name="public" m2compatible="true" root="http://10.0.0.132:8081/artifactory/repo" />
       <!--<url name="artifactory" m2compatible="false">
         <ivy pattern="http://dima:8081/artifactory/ivy-local/[organization]/[module]/[revision]/[type]s/ivy-[revision].xml" />
 	<artifact pattern="http://dima:8081/artifactory/ivy-local/[organization]/[module]/[revision]/[type]s/[module](-[classifier])-[revision].[ext]" />
