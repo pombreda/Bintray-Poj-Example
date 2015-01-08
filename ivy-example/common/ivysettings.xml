@@ -12,7 +12,7 @@
       <url name="public" m2compatible="false">
         <artifact pattern="http://dima:8081/artifactory/repo/[organization]/[module]/[revision]/[type]s/[module](-[classifier])-[revision].[ext]" />
         <ivy pattern="http://dima:8081/artifactory/repo/[organization]/[module]/[revision]/[type]s/ivy-[revision].xml" />
-      <ibiblio name="public1" m2compatible="true" root="http://10.0.0.223:8081/artifactory/repo" />
+      <ibiblio name="public" m2compatible="true" root="http://10.0.0.223:8081/artifactory/repo" />
       <!--<url name="artifactory" m2compatible="false">
         <ivy pattern="http://dima:8081/artifactory/ivy-local/[organization]/[module]/[revision]/[type]s/ivy-[revision].xml" />
 	<artifact pattern="http://dima:8081/artifactory/ivy-local/[organization]/[module]/[revision]/[type]s/[module](-[classifier])-[revision].[ext]" />
