@@ -25,12 +25,11 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.7-SNAPSHOT</version>
+            <groupId>swing-worker</groupId>
+            <artifactId>swing-worker</artifactId>
+            <version>1.1-20150121.150323-1</version>
         </dependency>
     </dependencies>
-
     <build>
         <pluginManagement>
             <plugins>
