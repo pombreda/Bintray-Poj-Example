@@ -27,7 +27,7 @@
         <dependency>
             <groupId>swing-worker</groupId>
             <artifactId>swing-worker</artifactId>
-            <version>1.1-20150121.150323-1</version>
+            <version>SNAPSHOT</version>
         </dependency>
     </dependencies>
     <build>
