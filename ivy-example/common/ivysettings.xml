@@ -16,6 +16,6 @@
       </url>
     </chain>
   </resolvers>
-  <properties environment="env" />
-  <caches defaultCacheDir="${env.WORKSPACE}/.ivy2/cache" />
+  <!--<properties environment="env" />
+  <caches defaultCacheDir="${env.WORKSPACE}/.ivy2/cache" />-->
 </ivy-settings>
